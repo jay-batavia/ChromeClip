@@ -1,0 +1,8 @@
+ I followed the tutorial  on http://www.wikihow.com/Create-a-Secure-Login-Script-in-PHP-and-MySQL for the most part to make a functional username & password database. 
+
+ My main focus was a robust implementation of my idea, that if needed could be expanded. When I was researching I found a lot of methods and ways in which to achieve what I wanted to do. But a lot of them were complicated for me to understand and some seemed like too time-consuming to begin to understand. What I finally ended up using is fairly straightforward, and I understand everything that is happening.
+
+ Some parts of the project, I wasn't able to implement well though. For example, I wasn't able to get the sign in working from the extension popup itself. The sign in page needs to be visited in the browser. The extension functions only once you have signed in. 
+
+ To view the snippets you have to be signed in and then you have to visit the mainClipboard page from the browser. This should also have been possible from within the chrome extension popup.
+
